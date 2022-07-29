@@ -1,4 +1,4 @@
-- 👋 Hi, I’m coolfun
+- 👋 Hi, I’m NoBug
 - 👀 I’m interested in Security
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Programing
